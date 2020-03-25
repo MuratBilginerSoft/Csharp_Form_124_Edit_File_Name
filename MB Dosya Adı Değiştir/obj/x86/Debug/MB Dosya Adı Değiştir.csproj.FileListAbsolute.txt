@@ -1,0 +1,14 @@
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Dosya Adı Değiştir\MB Dosya Adı Değiştir\bin\Debug\MB Dosya Adı Değiştir.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Dosya Adı Değiştir\MB Dosya Adı Değiştir\bin\Debug\MB Dosya Adı Değiştir.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Dosya Adı Değiştir\MB Dosya Adı Değiştir\obj\x86\Debug\MB_Dosya_Adı_Değiştir.Form1.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Dosya Adı Değiştir\MB Dosya Adı Değiştir\obj\x86\Debug\MB_Dosya_Adı_Değiştir.Properties.Resources.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Dosya Adı Değiştir\MB Dosya Adı Değiştir\obj\x86\Debug\MB Dosya Adı Değiştir.csproj.GenerateResource.Cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Dosya Adı Değiştir\MB Dosya Adı Değiştir\obj\x86\Debug\MB Dosya Adı Değiştir.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Dosya Adı Değiştir\MB Dosya Adı Değiştir\obj\x86\Debug\MB Dosya Adı Değiştir.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\43 Dosya Adı Değiştir\MB Dosya Adı Değiştir\obj\x86\Debug\MB Dosya Adı Değiştir.exe
+E:\03 - Yazılım\05 - Büyük Projeler\43 Dosya Adı Değiştir\MB Dosya Adı Değiştir\obj\x86\Debug\MB Dosya Adı Değiştir.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\43 Dosya Adı Değiştir\MB Dosya Adı Değiştir\bin\Debug\MB Dosya Adı Değiştir.exe
+E:\03 - Yazılım\05 - Büyük Projeler\43 Dosya Adı Değiştir\MB Dosya Adı Değiştir\bin\Debug\MB Dosya Adı Değiştir.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\43 Dosya Adı Değiştir\MB Dosya Adı Değiştir\obj\x86\Debug\MB_Dosya_Adı_Değiştir.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\43 Dosya Adı Değiştir\MB Dosya Adı Değiştir\obj\x86\Debug\MB_Dosya_Adı_Değiştir.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\43 Dosya Adı Değiştir\MB Dosya Adı Değiştir\obj\x86\Debug\MB Dosya Adı Değiştir.csproj.GenerateResource.Cache
